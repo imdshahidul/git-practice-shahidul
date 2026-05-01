@@ -9,3 +9,8 @@ This project demonstrates basic Git and GitHub workflow including branching, mer
 - Basic Python program
 - Calculator functions
 - Error handling
+
+## Usage
+Run the program:
+
+python src/main.py
