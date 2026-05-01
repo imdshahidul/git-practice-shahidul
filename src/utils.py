@@ -12,3 +12,5 @@ def divide(a, b):
         return a / b
     except ZeroDivisionError:
         return "Cannot divide by zero"
+
+# more function
