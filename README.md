@@ -7,4 +7,5 @@ This project demonstrates basic Git and GitHub workflow including branching, mer
 
 ## Features
 - Basic Python program
-
+- Calculator functions
+- Error handling
