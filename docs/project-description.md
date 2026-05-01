@@ -6,3 +6,7 @@ It includes:
 - Basic Python execution
 - Modular functions
 - Branching and merging workflow
+
+## Updates
+- Added calculator functions
+- Improved documentation
